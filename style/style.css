@@ -17,6 +17,12 @@ body {
   overflow: hidden;
 }
 
+/* Updated styles for the container to make it purple */
+body {
+  background-color: #5e1096; /* Lightish purple background */
+  color: white; /* White text color */
+}
+
 .container div.six {
   top: 10vh;
   z-index: 1;
